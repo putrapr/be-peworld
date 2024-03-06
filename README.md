@@ -1,7 +1,7 @@
 <p align="right">Backend Web</p> 
 
 
-# Mama Recipe
+# Peworld
 Peworld is a web application that matches workers with recruiters. Worker can add their self-description, skills, portfolio, and work experience. Recruiter can view many workers and contact them if their skills match with position in company looking for.  
 
 ## Built With
